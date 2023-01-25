@@ -273,3 +273,5 @@
 2023-01-20 22:09:37,900  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
 2023-01-20 22:09:37,902  INFO [main] BaseClass:37 - Closing the Browser
 2023-01-20 22:09:40,610  INFO [main] BaseClass:40 - Browser Closed
+2023-01-25 17:30:01,930  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-25 17:30:01,934  INFO [main] BaseClass:34 - Reading a property file for a browser name
